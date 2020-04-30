@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\Main.cpp(18,12): warning C4002: hay demasiados argumentos para la invocación de macro "max" de tipo función
+D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\Main.cpp(20,46): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\Main.cpp(20,15): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  7 of 10 functions (70.0%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  sierpinski.vcxproj -> D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\x64\Release\sierpinski.exe

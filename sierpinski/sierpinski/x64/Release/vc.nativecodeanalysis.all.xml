@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>354</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>LoadShaders</FUNCTION>
+    <DECORATED>?LoadShaders@@YAIPEBD0@Z</DECORATED>
+    <FUNCLINE>337</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>382</LINE>
+      <COLUMN>59</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "+" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "+" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>LoadShaders</FUNCTION>
+    <DECORATED>?LoadShaders@@YAIPEBD0@Z</DECORATED>
+    <FUNCLINE>337</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>399</LINE>
+      <COLUMN>61</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "+" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "+" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>LoadShaders</FUNCTION>
+    <DECORATED>?LoadShaders@@YAIPEBD0@Z</DECORATED>
+    <FUNCLINE>337</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Documents\Cursos\Computación Gráfica - CCOMP7-1\Trabajos Computacion Grafica\sierpinski\sierpinski\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>417</LINE>
+      <COLUMN>54</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "+" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "+" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>LoadShaders</FUNCTION>
+    <DECORATED>?LoadShaders@@YAIPEBD0@Z</DECORATED>
+    <FUNCLINE>337</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
